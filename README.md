@@ -181,3 +181,22 @@ We will now use a trick to convert Tab 5 to a new workspace.
    2. Make a comment, letting the team know you updated your Pull Request
    3. If any changes are needed, then Repeat Steps 1-4 until your PR is Merged.
    4. Once Merged, you can move onto another issue.
+
+---
+
+   ## **Timmsi Coach Aleem Duties**
+1. Be Fun & Friendly on Social Media 
+    * Facebook [Curiosity Hive](https://www.facebook.com/groups/curiosityhive)
+    * WhatsApp
+2. Host Meetings & Invite Everyone for Free
+    * Teach out of the Leadership Immersion Guide
+    * Teach the Learn & Earn Timmsi Program
+3. Invite great candidates to Curiosity Community
+    * [Ignite Curiosity](https://ignitecuriosity.org/register.html)
+4. Continue Training inside Curiosity Community ( Here )
+    * Welcome Group
+    * Note Hive
+5. Make Recommendation in Source Now chat on who we hired.
+   * Keep notes on who we should actually hire
+   * Say why we should hire them
+   * Get a compensation package recommendation
